@@ -4,7 +4,7 @@
 """
 Title: Mitigating Hallucinations in GPT-2 Small Model with Adjusted Methods
 Description: This script modifies the approaches for Fact Verification, Output Calibration, and Prompt Engineering to work more effectively with GPT-2 Small.
-Author: [Your Name]
+Author: Charith Ellepola
 Date: [Date]
 """
 
